@@ -1,0 +1,3 @@
+add_lunch_combo aosp_cherry-userdebug
+add_lunch_combo aosp_cherry-user
+add_lunch_combo aosp_cherry-eng
